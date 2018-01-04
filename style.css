@@ -1,0 +1,60 @@
+<style>
+
+ul{
+	list-style-type: none;	
+	margin:10;
+	padding: 0;
+	
+}
+li{
+	display: inline ;
+	padding:20px;
+}
+li a{
+	text-decoration: none;
+	color:#323232;
+	font-family: Verdana;
+	font-size:13px;
+	
+	
+}
+li a:hover{
+	text-decoration: underline;
+}
+
+.navbar {
+    background-color:#F2F2F2;
+    overflow: hidden;
+    position: fixed;	
+    bottom:-10px;
+    width: 100%;
+	
+	
+}
+
+.navbar a{
+	
+	padding: 0px;
+}
+
+button
+{
+	padding:8px;
+	padding-left:4px;
+	border-style: none;
+	background: #f3f3f3;
+	color:#888888;
+	display: inline-block;
+	text-align=center;
+	margin-right:10px;
+	
+	
+}
+
+button {
+
+    -webkit-appearance: button;
+}
+
+
+</style>
